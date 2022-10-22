@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @binary-sequence
+- 👀 I’m interested in software development, retro computing, retro consoles, IBM s360/s370/s390/s390x
+- 🥷🏽 I know bash, C, Perl, PHP, Python, JavaScript
+- 🌱 I’m currently learning Swift, IBM MVS 3.8, Inform7
+- 💞️ I’m looking to collaborate on anything I like
+- 📫 How to reach me sergiolindo \[dot] empresa \[at] gmail \[dot] com
